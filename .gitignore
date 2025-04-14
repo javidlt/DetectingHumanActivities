@@ -1,0 +1,5 @@
+.venv
+venv
+__pycache__/
+/a1_images
+/model_plots
