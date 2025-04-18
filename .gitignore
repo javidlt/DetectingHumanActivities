@@ -3,3 +3,5 @@ venv
 __pycache__/
 /a1_images
 /model_plots
+/preprocess-images/venv
+/models/venv
