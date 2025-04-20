@@ -5,6 +5,6 @@ __pycache__/
 /model_plots
 /models-multistep/venv
 /models-multistep/yolo_files
+/models-multistep/try_examples
 /models/venv
 /output_crops
-/try_examples
