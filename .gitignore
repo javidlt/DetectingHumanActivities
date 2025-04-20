@@ -4,6 +4,7 @@ __pycache__/
 /a1_images
 /model_plots
 /models-multistep/venv
+/transfer_and_embeddings/venv
 /models-multistep/yolo_files
 /models-multistep/try_examples
 /models/venv
